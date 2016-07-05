@@ -1,0 +1,26 @@
+ion-pane.start {
+
+  height: 100%;
+
+  p {
+    margin: 20px 0;
+    line-height: 22px;
+    font-size: 16px;
+  }
+
+  .top{
+    height:50%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    background-color: #f7b035;
+  }
+
+  .btm{
+    height: 50%;
+    width: 100%;
+    padding: 0px;
+    margin:0px;
+    background-color: #ffeb3b;
+  }
+}
